@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "951574365527",
+    "firebase_url": "https://guinexams.firebaseio.com",
+    "project_id": "guinexams",
+    "storage_bucket": "guinexams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951574365527:android:de08bfadd0f022d2",
+        "android_client_info": {
+          "package_name": "com.a33y.jo.guinexams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951574365527-fka87p4a2pj9i1c06de2vcmopk47nh5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a33y.jo.guinexams",
+            "certificate_hash": "f9a7baf9db51d5276e8af8ff9b77af3f619877b8"
+          }
+        },
+        {
+          "client_id": "951574365527-n365gbta7rtdbmmk27vnhui8uadrqio4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQtJcLPcdGsgyP5OOffTpCIoAI8HnZ18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951574365527-n365gbta7rtdbmmk27vnhui8uadrqio4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
